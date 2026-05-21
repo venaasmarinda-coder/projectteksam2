@@ -179,7 +179,7 @@ cat("Keterangan           :", keterangan)
 | Margin Error (e) | 14% |
 | Ukuran Sampel (n) | 39 |
 
-<img width="894" height="236" alt="image" src="https://github.com/user-attachments/assets/4a692d36-9e75-4f42-98f5-e83bd4c236d6" />
+<img width="880" height="331" alt="image" src="https://github.com/user-attachments/assets/a8e2fa0d-dbbf-4712-8eff-a1967c67d6f5" />
 
 interpretasi: 
 
@@ -217,8 +217,6 @@ Berdasarkan hasil uji validitas, seluruh item pertanyaan dari P1 sampai P9 memil
 interpretasi:
 
 Berdasarkan hasil uji reliabilitas menggunakan metode Cronbach Alpha, diperoleh nilai sebesar 0.744. Nilai tersebut berada pada rentang 0.70 – 0.80 sehingga instrumen penelitian termasuk dalam kategori cukup reliabel. Hal ini menunjukkan bahwa kuesioner yang digunakan memiliki tingkat konsistensi yang cukup baik dan layak digunakan dalam penelitian mengenai tingkat kepuasan mahasiswa terhadap ketersediaan area parkir di FMIPA Universitas Mataram.
-
-# Kesimpulan
 
 # Kesimpulan
 
