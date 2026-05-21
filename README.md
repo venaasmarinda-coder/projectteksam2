@@ -1,4 +1,4 @@
-# Analisis Survei Kepuasan Mahasiswa terhadap Ketersediaan Area Parkir di Prodi Statistika di Universitas Mataram
+# Analisis Survei Kepuasan Mahasiswa terhadap Ketersediaan Area Parkir di Prodi Statistika Universitas Mataram
 
 # Latar Belakang
 Area parkir merupakan salah satu fasilitas penting di lingkungan kampus karena digunakan setiap hari oleh mahasiswa. Banyak mahasiswa FMIPA Universitas Mataram menggunakan kendaraan pribadi, terutama sepeda motor, untuk datang ke kampus sehingga kebutuhan terhadap tempat parkir menjadi cukup tinggi. Namun, kondisi area parkir yang kurang luas, kurang tertata, maupun tingkat keamanan yang belum maksimal dapat memengaruhi kenyamanan mahasiswa saat berada di kampus.
