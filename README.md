@@ -60,4 +60,6 @@ Analisis data yang digunakan dalam penelitian ini meliputi:
 | X8 | Fasilitas area parkir di FMIPA membantu aktivitas perkuliahan mahasiswa. |
 | X9 | Secara keseluruhan saya puas terhadap ketersediaan parkir di FMIPA Universitas Mataram. |
 
+# Hasil Analisis
+
 
